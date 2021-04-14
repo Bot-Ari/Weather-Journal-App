@@ -26,7 +26,8 @@ function listening() {
 }
 // Get route...
 app.get('/all', function (req, res){
-	res.send(projectData)
+	res.send(projectData);
+	projectData = [];
 })
 
 // POST route...

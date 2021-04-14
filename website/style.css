@@ -49,6 +49,7 @@ body{
     text-align: center;
     padding-top: 40px;
     text-shadow: 2px 2px #ff0000;
+    box-shadow: 1px 3px 5px #888888;
 }
 .title{
 
@@ -79,7 +80,6 @@ button{
     font-size: 26px;
     font-family: 'Oswald', sans-serif;
     border: none;
-    box-shadow: 2px 4px 5px #444;
 }
 h1{
     font-size: 36px;
